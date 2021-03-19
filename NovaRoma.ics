@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+VERSION:2.0
+X-WR-CALNAME:Nova Roma
+PRODID:-//Flexibits Inc./Fantastical for Mac 2.5.16//EN
+X-APPLE-CALENDAR-COLOR:#FF3D33
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210301
+DTEND;VALUE=DATE:20210302
+DTSTAMP:20210319T080121Z
+UID:E823B2DA-C660-4152-8E85-646A4265C959
+TRANSP:TRANSPARENT
+SUMMARY:Kalends of Martius
+DESCRIPTION:As the Kalends of the month\, the day is sacred to Juno\, but 
+ is also much known for its festivals to Mars. Laurels (which are sacred 
+ to Mars) are affixed to the houses of the flamen priests and to various 
+ public buildings.\n\nAs the first day of the new year\, the twenty-four 
+ Salii (which means Dancers or Leapers\, a collegium which is divided into 
+ the Palatini (devoted to Mars Gradivvs) and the Agonenses (devoted to 
+ Quirinus)) will\, dressed in archaic military armor and bearing the 
+ sacred ancile shields\, dancing throughout the streets and chanting the 
+ ancient Carme Saliare. After their dance\, the Salii hold a spectacular 
+ feast. The dance and feast of the Salii are repeated on the 9th and 23rd 
+ days of the month.
+CREATED:20210319T075841Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+LAST-MODIFIED:20210319T080121Z
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210301
+DTEND;VALUE=DATE:20210302
+DTSTAMP:20210319T080129Z
+UID:2C9E30A6-7810-43EA-A27D-E414410A13EE
+TRANSP:TRANSPARENT
+SUMMARY:Matronalia
+DESCRIPTION:The Matronalia\, held on New Year's Day\, is sacred to Juno 
+ Lucina\, who presides over women and childbirth in particular. When 
+ engaged in her worship\, women had to unbind their hair and have nothing 
+ knotted on their person\, to symbolize nothing hindering safe childbirth. 
+ It is a day of renewal\, as the sacred fire of Vesta is tended by the 
+ Vestal Virgins.\n\nOn the Matronalia it is customary for husbands to pray 
+ for the wellbeing and health of their wives. It is a day of great 
+ celebration and revelry\, when gifts are exchanged between friends and 
+ family members. It is a day of feasting\, gambling\, and music\, with 
+ much dancing in the streets.
+CREATED:20210319T075903Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+LAST-MODIFIED:20210319T080129Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210307
+DTEND;VALUE=DATE:20210308
+DTSTAMP:20210319T080051Z
+UID:5282EC00-6E9E-4C4E-A35A-B57C4A84246B
+TRANSP:TRANSPARENT
+SUMMARY:Nones of Martius
+DESCRIPTION:This day was sacred to Vediovius\, an ancient deity 
+ associated with Jupiter and the underworld.
+CREATED:20210319T080051Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210314
+DTEND;VALUE=DATE:20210315
+DTSTAMP:20210319T080208Z
+UID:815DEC96-A701-406A-ABD0-9F92EB3BE51A
+TRANSP:TRANSPARENT
+SUMMARY:Equirria
+DESCRIPTION:A festival of horse racing dedicated to Mars\, god of war and 
+ agriculture. Established by Romulus himself in the early days of Rome. It 
+ is held in the Campus Martius in Roma\, or the Campus Martialis if the 
+ former is flooded. In the modern world\, attending a horse racing event 
+ would be quite appropriate. It was held both on the 27th of Februarius 
+ and the 14th of Martius.
+CREATED:20210319T080208Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210315
+DTEND;VALUE=DATE:20210316
+DTSTAMP:20210319T080241Z
+UID:7A62FCFB-24BE-461C-8CFF-40A3A17147B7
+TRANSP:TRANSPARENT
+SUMMARY:Anna Perenna
+DESCRIPTION:This day was sacred to Annae Perena\, the personification of 
+ the succession of the years. Represented as an old woman\, her worship is 
+ celebrated by both men and women who engage in much revelry\, dancing\, 
+ and drinking as many cups of wine as the number of years they pray to 
+ live. Public prayers and sacrifice are also offered to ensure a 
+ prosperous coming year. It is an uninhibited day of frolic for most 
+ people.\n\nThe day is also sacred to Jupiter.
+CREATED:20210319T080241Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210316
+DTEND;VALUE=DATE:20210318
+DTSTAMP:20210319T080343Z
+UID:2AA9CF98-3921-4FEA-AB61-840A7D827D99
+TRANSP:TRANSPARENT
+SUMMARY:Procession of the Argei
+DESCRIPTION:On this day a procession goes to the shrines of the Argei\; 
+ they were brought to twenty-seven special shrines throughout the four 
+ Servian regions of Roma in a preparatory rite. The argei themselves are 
+ human-shaped bundles of rushes that are thrown into the river later in 
+ the year (the Argeis in Maius). It is held from the 16th to the 17th of 
+ Martius.
+CREATED:20210319T080343Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210317
+DTEND;VALUE=DATE:20210318
+DTSTAMP:20210319T080423Z
+UID:49D3F8F7-4DE0-47CF-B24D-C6B8266A5F84
+TRANSP:TRANSPARENT
+SUMMARY:Liberalia
+DESCRIPTION:The celebration of Liber Pater\, an old Italian god of both 
+ fertility and wine. He is associated with the Greek Dionysus. Old women\, 
+ acting as priestesses of Liber Pater\, wear ivy weaths and displaying 
+ cakes (libia) made of oil and honey. They would sacrifice these cakes to 
+ Liber Pater for the passersby. A later development included the goddess 
+ Libera (as a counterpart to the male Liber)\; the two split jurisdiction 
+ over the female and male seed respectively. A rustic ceremony\, a large 
+ phallus was carted around the countryside to encourage fertility and 
+ protect the crops from evil\, after which a wreath was placed upon it by 
+ a virtuous matron.
+CREATED:20210319T080423Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210317
+DTEND;VALUE=DATE:20210318
+DTSTAMP:20210319T080451Z
+UID:21869B6A-67EC-4AE0-A7AB-9708C3D779EA
+TRANSP:TRANSPARENT
+SUMMARY:Agonalia
+DESCRIPTION:Celebrated on IX Januarius\, XVII Martius\, XXI Maius\, and 
+ XI December. The rex sacrorum sacrifices a ram at the Regia in Roma. It 
+ honors Janus\, Liber Pater\, Vediovius\, and Sol Indiges\, respectively. 
+ The Agonalia on XVII Martius was the day young boys were usually 
+ initiated into manhood by donning their adult togas.
+CREATED:20210319T080451Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210319
+DTEND;VALUE=DATE:20210324
+DTSTAMP:20210319T080547Z
+UID:C80D0BB1-337E-40D8-91E8-3625296EAFBF
+TRANSP:TRANSPARENT
+SUMMARY:Quinquatria
+DESCRIPTION:A celebration sacred to Mars. The Salii (priests of Mars) 
+ dance in the comitium (attended by the pontiffs and the symbolic 
+ representatives of the army — the tribuni celerum)\, and the sacred 
+ arma ancilia are purified. In this sense\, it is a ritual preparation for 
+ the season's coming military campaigns. The celebration of Mars lasts for 
+ five days.\n\nThe 19th of Martius is also sacred to Minerva\, goddess of 
+ handicrafts\, doctors\, teachers\, artists\, and more.
+CREATED:20210319T080547Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210323
+DTEND;VALUE=DATE:20210324
+DTSTAMP:20210319T080616Z
+UID:F782520A-CA3F-484E-9E29-D7863E481329
+TRANSP:TRANSPARENT
+SUMMARY:Tubilustrium
+DESCRIPTION:This is the day of the Purification of the Trumpets\, held on 
+ both XXIII Martius and XXIII Maius. An ewe is sacrificed to sanctify the 
+ trumpets used in many of the public rites. It was accompanied by a dance 
+ of the Salii. Once again it is a ceremony of purification and preparation 
+ for both the coming sacral year and the military campaigning season.
+CREATED:20210319T080616Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210331
+DTEND;VALUE=DATE:20210401
+DTSTAMP:20210319T080648Z
+UID:7A4C97FD-CFBA-4ECF-88BB-E0AF44E830F0
+TRANSP:TRANSPARENT
+SUMMARY:Luna
+DESCRIPTION:This day was sacred to Luna\, the personification of the 
+ moon.
+CREATED:20210319T080648Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210309
+DTEND;VALUE=DATE:20210310
+DTSTAMP:20210319T080846Z
+UID:51AA9F86-C7DB-4E38-9734-E2C6A07B04E2
+TRANSP:TRANSPARENT
+SUMMARY:(See Kalends of Martius)
+DESCRIPTION:The dance and feast of the Salii are repeated on the 9th and 
+ 23rd days of the month.
+CREATED:20210319T080846Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210315
+DTEND;VALUE=DATE:20210316
+DTSTAMP:20210319T080916Z
+UID:F6C8E074-105B-4DA1-A8BC-0027C12CBB83
+TRANSP:TRANSPARENT
+SUMMARY:Ides of Martius
+CREATED:20210319T080916Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20210323
+DTEND;VALUE=DATE:20210324
+DTSTAMP:20210319T080938Z
+UID:AC0C0CCC-06FE-4F72-8095-666CD51C909E
+TRANSP:TRANSPARENT
+SUMMARY:(See Kalends of Martius)
+DESCRIPTION:The dance and feast of the Salii are repeated on the 9th and 
+ 23rd days of the month.
+CREATED:20210319T080938Z
+SEQUENCE:0
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+RRULE:FREQ=YEARLY
+END:VEVENT
+END:VCALENDAR
